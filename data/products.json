@@ -1,0 +1,88 @@
+[
+    {
+        "name": "OPPO F12 pro 5G",
+        "prices": 354.45,
+        "description": "OPPO F12 5g is devices is powefull",
+        "ratings": 4.5,
+        "image": [
+            {
+                "image": "/image/production/1.jpg"
+            },
+            {
+                "image": "/image/production/2.jpg"
+            }
+        ],
+        "category": "mobile phone",
+        "seller": "Amazon",
+        "stock": 5
+    },
+    {
+        "name": "WRISTIO HD, Bluethooth calling smart watch",
+        "prices": 644.45,
+        "description": "minix watch are exculusively designed",
+        "ratings": 3.5,
+        "image": [
+            {
+                "image": "/image/production/2.jpg"
+            }
+        ],
+        "category": "Accessories",
+        "seller": "Flipkard",
+        "stock": 9
+    },
+    {
+        "name": "Dell Inspiron 3511 laptop",
+        "prices": 440.45,
+        "description": "Dell Inspiron 3511 11th Genration INtel computer",
+        "ratings": 2,
+        "image": [
+            {
+                "image": "/image/production/3.jpg"
+            }
+        ],
+        "category": "laptop",
+        "seller": "Ebay",
+        "stock": 9
+    },
+    {
+        "name": "Lenova Ideapad slim 3 laptop",
+        "prices": 354.45,
+        "description": "Lenova Ideapad devices is powefull",
+        "ratings": 4.5,
+        "image": [
+            {
+                "image": "/image/production/1.jpg"
+            }
+        ],
+        "category": "mobile phone",
+        "seller": "Amazon",
+        "stock": 5
+    },
+    {
+        "name": "Lenova Ideapad slim 3 laptop",
+        "prices": 354.45,
+        "description": "Lenova Ideapad devices is powefull",
+        "ratings": 4.5,
+        "image": [
+            {
+                "image": "/image/production/1.jpg"
+            }
+        ],
+        "category": "mobile phone",
+        "seller": "Amazon",
+        "stock": 5
+    },
+    {
+        "name": "Lenova Ideapad slim 3 laptop",
+        "prices": 354.45,
+        "description": "Lenova Ideapad devices is powefull",
+        "ratings": 4.5,
+        "image": [
+            {
+                "image": "/image/production/1.jpg"
+            }
+        ],
+        "category": "mobile phone",
+        "seller": "Amazon",
+        "stock": 5
+    }]
